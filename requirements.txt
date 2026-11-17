@@ -1,0 +1,6 @@
+# Runtime (Python 3.10 - 3.13)
+customtkinter>=5.2.2,<6
+Pillow>=10.4
+
+# Build only
+# pyinstaller>=6.10
